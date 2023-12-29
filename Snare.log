@@ -1,0 +1,43 @@
+Circuit: * M:\Downloads\Modular_Projects\8x8_Drums\Snare\Snare.asc
+
+WARNING: Less than two connections to node SNARE_OUT.  This node is used by R35.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.195004 to 0.195004
+
+Date: Mon Jul 24 16:00:09 2023
+Total elapsed time: 90.592 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7727864
+traniter = 7727419
+tranpoints = 2884869
+accept = 2019132
+rejected = 865738
+matrix size = 67
+fillins = 67
+solver = Normal
+Thread vector: 8.2/5.8[2] 2.7/2.3[2] 1.7/1.4[2] 0.2/1.1[1]  2592/500
+Matrix Compiler1: 7.19 KB object code size  2.6/1.5/[0.8]
+Matrix Compiler2: 7.21 KB object code size  1.3/1.3/[0.3]
+
